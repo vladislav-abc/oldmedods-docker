@@ -1,9 +1,9 @@
 GIT
-  remote: git://github.com/rubysherpas/paranoia
-  revision: 3c0d897a3e0eb49c7ff8ee7ad9ba221d41ff160a
-  branch: release-3.0.0
+  remote: https://github.com/rubysherpas/paranoia
+  revision: 03d0779327b1604befd6dd36001cd8fcb908bff9
+  branch: 2.4.3
   specs:
-    paranoia (3.0.0)
+    paranoia (2.4.3)
       activerecord (>= 4.0, < 5.1)
 
 GEM
