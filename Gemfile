@@ -140,3 +140,6 @@ gem 'serviceworker-rails'
 gem 'scenic'
 
 gem 'ruby-progressbar'
+
+# 0.3.2
+gem 'mimemagic', :git => 'https://github.com/mimemagicrb/mimemagic', ref: '3543363026121ee28d98dfce4cb6366980c055ee'
