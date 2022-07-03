@@ -129,7 +129,7 @@ gem 'mini_magick'
 gem 'time_diff'
 
 gem "i18n-js"
-gem 'paranoia', :git => 'git://github.com/rubysherpas/paranoia', branch: 'release-3.0.0'
+gem 'paranoia', :git => 'https://github.com/rubysherpas/paranoia', branch: '2.4.3'
 gem "bourbon"
 gem 'impressionist'
 gem 'public_activity'
